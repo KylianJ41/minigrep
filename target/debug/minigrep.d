@@ -1,0 +1,1 @@
+/home/kylian/Documents/PersonalWork/Rust/rustBook/minigrep/target/debug/minigrep: /home/kylian/Documents/PersonalWork/Rust/rustBook/minigrep/src/lib.rs /home/kylian/Documents/PersonalWork/Rust/rustBook/minigrep/src/main.rs
